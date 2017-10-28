@@ -1,0 +1,41 @@
+
+.Cal-cal {
+  margin: 50px auto;
+  width: 742px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #a5a5a5;
+}
+
+.Cal-calbox {
+  width: 100px;
+  position: relative;
+  margin: 0;
+  padding: 2px;
+  border: 1px solid #a5a5a5;
+}
+
+.Cal-date {
+  height: 80px;
+}
+
+.Cal-date-head {
+  height: 20px;
+  background-color: #a5a5a5;
+  color: white;
+}
+.Cal-count {
+  position: absolute;
+  top:28px;
+  left:5px;
+  border: 1px solid #a5a5a5;
+
+  width: 90px;
+  height: 50px;
+  border-radius: 30%;
+}
+.Cal-count:hover {
+  box-shadow: 0px 2px 10px grey;
+  cursor: pointer;
+  background-color: #dfdddd;
+}
