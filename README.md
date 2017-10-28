@@ -1,1 +1,3 @@
-Shows City of Asheville Purchase Order create dates on a calendar.
+Demo app:
+Pulls public API data from City of Asheville to display a calendar of Purchase Orders.
+
